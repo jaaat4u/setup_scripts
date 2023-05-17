@@ -28,7 +28,7 @@ sudo pacman -Sy --needed --noconfirm \
 	sharutils uudeview arj cabextract file-roller \
 	dtc brotli axel gawk detox clang gcc gcc-libs \
 	flatpak zsh asp kmod pahole xmlto python-sphinx \
-	python-sphinx_rtd_theme svn github-cli
+	python-sphinx_rtd_theme svn github-cli libxcrypt-compat
 
 # zsh
 sudo chsh -s /bin/zsh root
